@@ -1,0 +1,3 @@
+[submodule "howard-safe"]
+	path = howard-safe
+	url = https://github.com/rahualrai/howard-safe
